@@ -9,8 +9,15 @@
 import Foundation
 
 
-class ABC {
-    func printSomething() {
+public class ABC {
+    
+    public var name: String
+    
+    init() {
+        self.name = "name"
+    }
+    
+    public func printSomething() {
         print("This is A")
     }
 }
