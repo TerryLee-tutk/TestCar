@@ -13,7 +13,7 @@ public class ABC {
     
     public var name: String
     
-    init() {
+    public init() {
         self.name = "name"
     }
     
