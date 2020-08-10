@@ -8,11 +8,11 @@
 
 import Foundation
 
-public class C {
+public class CDE {
     
-    let b: B
+    let b: BCD
     
-    public init(b: B) {
+    public init(b: BCD) {
         self.b = b
     }
     

@@ -9,7 +9,7 @@
 import Foundation
 
 
-public class A {
+public class ABC {
     public func printSomething() {
         print("This is A")
     }

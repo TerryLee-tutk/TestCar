@@ -8,7 +8,7 @@
 
 import Foundation
 
-public class B {
+public class BCD {
     let name: String
     
     init(name: String) {

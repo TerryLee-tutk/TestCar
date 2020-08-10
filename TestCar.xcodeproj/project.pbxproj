@@ -16,9 +16,11 @@
 		E95617D324E0D0410022012D /* TestCarth.h in Headers */ = {isa = PBXBuildFile; fileRef = E95617D124E0D0410022012D /* TestCarth.h */; platformFilter = ios; settings = {ATTRIBUTES = (Public, ); }; };
 		E95617D624E0D0410022012D /* TestCarth.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E95617CF24E0D0410022012D /* TestCarth.framework */; };
 		E95617D724E0D0410022012D /* TestCarth.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = E95617CF24E0D0410022012D /* TestCarth.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		E988FB6924E0D491008B4A36 /* A.swift in Headers */ = {isa = PBXBuildFile; fileRef = E95617C824E0CFF90022012D /* A.swift */; settings = {ATTRIBUTES = (Public, ); }; };
-		E988FB6A24E0D491008B4A36 /* B.swift in Headers */ = {isa = PBXBuildFile; fileRef = E95617DD24E0D05E0022012D /* B.swift */; settings = {ATTRIBUTES = (Public, ); }; };
-		E988FB6B24E0D491008B4A36 /* C.swift in Headers */ = {isa = PBXBuildFile; fileRef = E95617DF24E0D0650022012D /* C.swift */; settings = {ATTRIBUTES = (Public, ); }; };
+		E988FB7724E0DA48008B4A36 /* B.swift in Sources */ = {isa = PBXBuildFile; fileRef = E95617DD24E0D05E0022012D /* B.swift */; };
+		E988FB7824E0DA48008B4A36 /* C.swift in Sources */ = {isa = PBXBuildFile; fileRef = E95617DF24E0D0650022012D /* C.swift */; };
+		E988FB7924E0DA48008B4A36 /* A.swift in Sources */ = {isa = PBXBuildFile; fileRef = E95617C824E0CFF90022012D /* A.swift */; };
+		E988FB7A24E0DA80008B4A36 /* A.swift in Headers */ = {isa = PBXBuildFile; fileRef = E95617C824E0CFF90022012D /* A.swift */; settings = {ATTRIBUTES = (Public, ); }; };
+		E988FB7B24E0DA80008B4A36 /* C.swift in Headers */ = {isa = PBXBuildFile; fileRef = E95617DF24E0D0650022012D /* C.swift */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -133,9 +135,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				E95617D324E0D0410022012D /* TestCarth.h in Headers */,
-				E988FB6924E0D491008B4A36 /* A.swift in Headers */,
-				E988FB6A24E0D491008B4A36 /* B.swift in Headers */,
-				E988FB6B24E0D491008B4A36 /* C.swift in Headers */,
+				E988FB7A24E0DA80008B4A36 /* A.swift in Headers */,
+				E988FB7B24E0DA80008B4A36 /* C.swift in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -251,6 +252,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E988FB7924E0DA48008B4A36 /* A.swift in Sources */,
+				E988FB7724E0DA48008B4A36 /* B.swift in Sources */,
+				E988FB7824E0DA48008B4A36 /* C.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
