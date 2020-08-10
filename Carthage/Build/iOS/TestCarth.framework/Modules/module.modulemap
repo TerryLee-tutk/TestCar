@@ -4,8 +4,3 @@ framework module TestCarth {
   export *
   module * { export * }
 }
-
-module TestCarth.Swift {
-    header "TestCarth-Swift.h"
-    requires objc
-}

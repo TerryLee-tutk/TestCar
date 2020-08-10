@@ -8,12 +8,11 @@
   "tvOS" : [
 
   ],
-  "commitish" : "1.0.2",
+  "commitish" : "1.0.4",
   "iOS" : [
     {
       "name" : "TestCarth",
-      "hash" : "d0a8139ab1e91f8ccf4e998f8ebf7f9f05affcf22dbf50b2e70aee54cabd7678",
-      "swiftToolchainVersion" : "5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+      "hash" : "0ab2b204d927f165e29559c6456211a2a8b2be8f81e917011173c17654b367dc"
     }
   ]
 }
