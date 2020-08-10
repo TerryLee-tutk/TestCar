@@ -9,8 +9,8 @@
 import Foundation
 
 
-internal class ABC {
-    internal func printSomething() {
+class ABC {
+    func printSomething() {
         print("This is A")
     }
 }
