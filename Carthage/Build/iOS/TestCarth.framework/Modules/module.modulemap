@@ -1,0 +1,11 @@
+framework module TestCarth {
+  umbrella header "TestCarth.h"
+
+  export *
+  module * { export * }
+}
+
+module TestCarth.Swift {
+    header "TestCarth-Swift.h"
+    requires objc
+}

@@ -1,0 +1,22 @@
+BCSymbolMap Version: 2.0
+Apple clang version 11.0.3 (clang-1103.0.32.62)
+/Users/terrylee/Library/Developer/Xcode/DerivedData/TestCar-fpwwhfbhlxzvrpgzxinbpgkpsvkw/Build/Intermediates.noindex/ArchiveIntermediates/TestCarth/IntermediateBuildFilesPath/TestCar.build/Release-iphoneos/TestCarth.build/DerivedSources/TestCarth_vers.c
+/Users/terrylee/Desktop/Sample/TestCar
+_$s9TestCarth1BC4nameSSvpWvd
+_$s9TestCarthMXM
+_$s9TestCarth1BCML
+_$s9TestCarth1BCMf
+_symbolic _____ 9TestCarth1BC
+_symbolic SS
+_$s9TestCarth1BCMF
+___swift_reflection_version
+_objc_classes
+_$s9TestCarth1BC4nameACSS_tcfCTq
+_$s9TestCarth1BC14printSomethingyyFTq
+Apple clang version 11.0.3 (clang-1103.0.32.53)
+<swift-imported-modules>
+Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)
+/Users/terrylee/Desktop/Sample/TestCar/TestCarth/B.swift
+$s9TestCarth1BCMa
+<compiler-generated>
+deinit
